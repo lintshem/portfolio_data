@@ -1,7 +1,52 @@
 [
-      { name: "Travelio", type: "web", desc: "A travel booking website with user-friendly interface and advanced search features.", link: "https://travelio.com", imgs: ["travelio1.jpg", "travelio2.jpg"] },
-      { name: "FitTrack", type: "mobile", desc: "An exercise tracking app that helps users monitor their fitness progress and set workout goals.", link: "https://fittrackapp.com", imgs: ["fittrack1.jpg", "fittrack2.jpg"] },
-      { name: "EcoHub", type: "web", desc: "A platform for eco-friendly products and services, promoting sustainable living and environmental awareness.", link: "https://ecohub.io", imgs: ["ecohub1.jpg", "ecohub2.jpg"] },
-      { name: "RecipeXpert", type: "web", desc: "A recipe sharing website where users can explore a wide range of culinary creations and share their own recipes.", link: "https://recipexpert.com", imgs: ["recipexpert1.jpg", "recipexpert2.jpg"] },
-      { name: "HealthBuddy", type: "mobile", desc: "A health tracking app that helps users monitor their daily activities, nutrition intake, and overall wellness.", link: "https://healthbuddyapp.com", imgs: ["healthbuddy1.jpg", "healthbuddy2.jpg"] }
-    ]
+    {
+        "name": "Travelio",
+        "type": "web",
+        "desc": "A travel booking website with user-friendly interface and advanced search features.",
+        "link": "https://travelio.com",
+        "imgs": [
+            "travelio1.jpg",
+            "travelio2.jpg"
+        ]
+    },
+    {
+        "name": "FitTrack",
+        "type": "mobile",
+        "desc": "An exercise tracking app that helps users monitor their fitness progress and set workout goals.",
+        "link": "https://fittrackapp.com",
+        "imgs": [
+            "fittrack1.jpg",
+            "fittrack2.jpg"
+        ]
+    },
+    {
+        "name": "EcoHub",
+        "type": "web",
+        "desc": "A platform for eco-friendly products and services, promoting sustainable living and environmental awareness.",
+        "link": "https://ecohub.io",
+        "imgs": [
+            "ecohub1.jpg",
+            "ecohub2.jpg"
+        ]
+    },
+    {
+        "name": "RecipeXpert",
+        "type": "web",
+        "desc": "A recipe sharing website where users can explore a wide range of culinary creations and share their own recipes.",
+        "link": "https://recipexpert.com",
+        "imgs": [
+            "recipexpert1.jpg",
+            "recipexpert2.jpg"
+        ]
+    },
+    {
+        "name": "HealthBuddy",
+        "type": "mobile",
+        "desc": "A health tracking app that helps users monitor their daily activities, nutrition intake, and overall wellness.",
+        "link": "https://healthbuddyapp.com",
+        "imgs": [
+            "healthbuddy1.jpg",
+            "healthbuddy2.jpg"
+        ]
+    }
+]
