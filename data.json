@@ -5,6 +5,7 @@
         "desc": "A casino site, for betting and playing the crush game",
         "link": "https://flipbits-casino.web.app/",
         "images": 5,
+        "imagenames": "flipbits",
         "tags": [
             "web",
             "react",
@@ -19,6 +20,7 @@
         "desc": "A tutoring website, to help connect students to tutors and mentors",
         "link": "https://hwroom-2412b.web.app/",
         "images": 8,
+        "imagenames": "hwroom",
         "tags": [
             "web",
             "react",
@@ -33,6 +35,7 @@
         "desc": "A resume site for kilosum,showing experience, skills and previus apps",
         "link": "https://kilosum-resume.web.app/",
         "images": 5,
+        "imagenames": "kilosum",
         "tags": [
             "web",
             "react",
@@ -48,6 +51,7 @@
         "desc": "A visual app development platform for building adds on a browers using drag and drop",
         "link": "https://guyi-44d0f.web.app/",
         "images": 7,
+        "imagenames": "guyi",
         "tags": [
             "web",
             "react",
